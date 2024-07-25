@@ -9,4 +9,8 @@ console.log(to, from)
 
 const transfer = async () => {
     const balance = connection.getBalance(from.publicKey)
+
+    console.log(balance)
 }
+
+transfer()
