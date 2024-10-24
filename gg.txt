@@ -1,0 +1,14 @@
+PDA - deterministic function
+typescript cannot compu te bignumbers 
+array vs vectors
+deterministic -specificity
+
+PDA - seeds, bomb.
+
+EBF- extended berkly 
+
+fault tolerant
+turbine
+grid solomon
+
+seeds - array u8
